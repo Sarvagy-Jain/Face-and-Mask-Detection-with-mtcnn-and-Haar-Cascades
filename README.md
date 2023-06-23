@@ -3,7 +3,9 @@ Haar cascade is an algorithm that can detect objects in images, irrespective of 
 Haar cascade uses the cascading window, and it tries to compute features in every window and classify whether it could be an object.
 
 
-![image](https://github.com/Sarvagy-Jain/Face-and-Mask-Detection-with-mtcnn-and-Haar-Cascades/assets/82312885/3ae82a4c-b862-4115-b5e4-650183100011)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/Sarvagy-Jain/Face-and-Mask-Detection-with-mtcnn-and-Haar-Cascades/assets/82312885/3ae82a4c-b862-4115-b5e4-650183100011)" />
+</p>
 
 
 Haar cascade works as a classifier. It classifies positive data points → that are part of our detected object and negative data points → that don’t contain our object.
