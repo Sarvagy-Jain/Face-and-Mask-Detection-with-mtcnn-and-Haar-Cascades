@@ -4,7 +4,7 @@ Haar cascade uses the cascading window, and it tries to compute features in ever
 
 
 <p align="center">
-  <img src="https://github.com/Sarvagy-Jain/Face-and-Mask-Detection-with-mtcnn-and-Haar-Cascades/blob/main/Cascades.png?raw=true" alt="Cascade Image "/>
+  <img src="Cascades.pngCascades.png" alt="Cascade Image "/>
 </p>
 
 Haar cascade works as a classifier. It classifies positive data points → that are part of our detected object and negative data points → that don’t contain our object.
